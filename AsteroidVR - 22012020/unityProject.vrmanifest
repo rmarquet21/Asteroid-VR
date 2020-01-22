@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.asteroidvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\rm792745\\Desktop\\AsteroidVR-22012020\\AsteroidVR-22012020\\AsteroidVR - 22012020\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "AsteroidVR [Testing]"
+        }
+      }
+    }
+  ]
+}
